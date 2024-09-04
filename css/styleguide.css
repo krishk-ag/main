@@ -1,0 +1,73 @@
+:root { 
+  --black: #000000;
+  --blueberry: #6581f5;
+  --blueberry-2: #6481f5;
+  --emerald: #4ccb74;
+  --hawkes-blue: #d2e6ff;
+  --nandor: #48614e;
+  --nandor-2: #47604e;
+  --onyx: #393939;
+  --stromboli: #2d6a4f;
+  --white: #ffffff;
+  --zumthor: #eff5ff;
+ 
+  --font-size-l: 48px;
+  --font-size-m: 20px;
+  --font-size-s: 18.9px;
+  --font-size-xs: 18.5px;
+  --font-size-xxs: 18px;
+  --font-size-xxxs: 16px;
+  --font-size-xxxxs: 12.9px;
+ 
+  --font-family-gramatika-black-☞: "Gramatika-Black-☞", Helvetica;
+  --font-family-gramatika-bold-☞: "Gramatika-Bold-☞", Helvetica;
+  --font-family-inter: "Inter", Helvetica;
+  --font-family-poppins: "Poppins", Helvetica;
+}
+.poppins-medium-nandor-20px {
+  color: var(--nandor);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.poppins-semi-bold-black-12-9px {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxs);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.poppins-medium-blueberry-18-5px {
+  color: var(--blueberry);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.poppins-medium-stromboli-18-5px {
+  color: var(--stromboli);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.poppins-medium-stromboli-20px {
+  color: var(--stromboli);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.gramatika-bold--normal-nandor-18-9px {
+  color: var(--nandor-2);
+  font-family: var(--font-family-gramatika-bold-☞);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}

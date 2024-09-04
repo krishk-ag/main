@@ -1,0 +1,1133 @@
+/* screen - landing-animate-get-started-1 */
+
+.landing-animate-get-started-1 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 4617px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.landing-animate-get-started-1 .overlap-group9 {
+  align-self: flex-start;
+  height: 1364px;
+  margin-top: -132px;
+  position: relative;
+  width: 1864px;
+}
+
+.landing-animate-get-started-1 .widget-wrapper {
+  align-items: flex-start;
+  display: flex;
+  height: 687px;
+  left: 0;
+  position: absolute;
+  top: 132px;
+  width: 1440px;
+}
+
+.landing-animate-get-started-1 .rectangle-187 {
+  width: 100%;
+}
+
+.landing-animate-get-started-1 .we-are-simplifying-farmers-life {
+  color: var(--onyx);
+  font-family: var(--font-family-poppins);
+  font-size: 56px;
+  font-weight: 600;
+  left: 141px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 379px;
+  line-height: 1.3;
+}
+
+.landing-animate-get-started-1 .button {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 60px;
+  left: 140px;
+  min-width: 187px;
+  position: absolute;
+  top: 600px;
+}
+
+.landing-animate-get-started-1 .overlap-group-1 {
+  align-items: center;
+  background-color: var(--emerald);
+  box-shadow: 0px 16px 14px #0000000d;
+  display: flex;
+  height: 60px;
+  min-width: 187px;
+  padding: 0 24px;
+  border-radius: 6px;
+}
+
+.landing-animate-get-started-1 .get-started {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 24px;
+  font-weight: 500;
+  letter-spacing: 0;
+  min-height: 0px;
+  min-width: 139px;
+}
+
+.landing-animate-get-started-1 .x112824-farmer-ea-logistics-1 {
+  height: 54px;
+  left: 879px;
+  position: absolute;
+  top: 959px;
+  width: 298px;
+}
+
+.landing-animate-get-started-1 .group-76 {
+  height: 109px;
+  left: 188px;
+  position: absolute;
+  top: 860px;
+  width: 257px;
+}
+
+.landing-animate-get-started-1 .group-193 {
+  height: 109px;
+  left: 998px;
+  position: absolute;
+  top: 1252px;
+  width: 257px;
+}
+
+.landing-animate-get-started-1 .rectangle-6 {
+  background-color: var(--emerald);
+  border: 1px none;
+  border-radius: 3px;
+  box-shadow: 0px 2px 4px #00000040;
+  height: 31px;
+  left: 1137px;
+  position: absolute;
+  top: 174px;
+  width: 71px;
+}
+
+.landing-animate-get-started-1 .place {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxs);
+  font-weight: 500;
+  left: 1149px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 179px;
+  width: 47px;
+}
+
+.landing-animate-get-started-1 .about-us {
+  color: var(--black);
+  cursor: pointer;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxs);
+  font-weight: 500;
+  left: 1230px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 179px;
+  width: 70px;
+}
+
+.landing-animate-get-started-1 .logo-1 {
+  height: 56px;
+  left: 141px;
+  object-fit: cover;
+  position: absolute;
+  top: 162px;
+  width: 131px;
+}
+
+.landing-animate-get-started-1 .overlap-group-container {
+  align-items: flex-end;
+  background-image: url(../img/golden-wheat-12-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 141px;
+  left: 708px;
+  min-height: 1000px;
+  padding: 149.0px 130.0px;
+  position: absolute;
+  top: 132px;
+  width: 732px;
+}
+
+.landing-animate-get-started-1 .overlap-group-2 {
+  height: 153px;
+  position: relative;
+  width: 223px;
+}
+
+.landing-animate-get-started-1 .untitled-1-1 {
+  height: 85px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 68px;
+  width: 86px;
+}
+
+.landing-animate-get-started-1 .ellipse-69 {
+  border: 7px solid;
+  border-color: var(--white);
+  border-radius: 36px;
+  height: 72px;
+  left: 9px;
+  opacity: 0.74;
+  position: absolute;
+  top: 73px;
+  width: 72px;
+}
+
+.landing-animate-get-started-1 .vector-50 {
+  height: 57px;
+  left: 44px;
+  position: absolute;
+  top: 19px;
+  width: 69px;
+}
+
+.landing-animate-get-started-1 .rectangle-86 {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 58px;
+  height: 47px;
+  left: 86px;
+  position: absolute;
+  top: 0;
+  width: 137px;
+}
+
+.landing-animate-get-started-1 .address {
+  color: #425c4b;
+  font-family: var(--font-family-gramatika-bold-☞);
+  font-size: var(--font-size-xxs);
+  font-weight: 400;
+  left: 110px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 12px;
+  width: 97px;
+}
+
+.landing-animate-get-started-1 .overlap-group1 {
+  align-self: center;
+  height: 137px;
+  margin-left: 53.0px;
+  position: relative;
+  width: 281px;
+}
+
+.landing-animate-get-started-1 .untitled-1-2 {
+  height: 85px;
+  left: 195px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 86px;
+}
+
+.landing-animate-get-started-1 .vector-49 {
+  height: 40px;
+  left: 51px;
+  position: absolute;
+  top: 74px;
+  width: 174px;
+}
+
+.landing-animate-get-started-1 .ellipse-68 {
+  border: 7px solid;
+  border-color: var(--white);
+  border-radius: 36px;
+  height: 72px;
+  left: 204px;
+  opacity: 0.74;
+  position: absolute;
+  top: 6px;
+  width: 72px;
+}
+
+.landing-animate-get-started-1 .rectangle-85 {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 74px;
+  height: 47px;
+  left: 0;
+  position: absolute;
+  top: 90px;
+  width: 167px;
+}
+
+.landing-animate-get-started-1 .zinc-deficiency {
+  color: #fb8700;
+  font-family: var(--font-family-gramatika-bold-☞);
+  font-size: var(--font-size-xxs);
+  font-weight: 400;
+  left: 18px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 103px;
+  width: 135px;
+}
+
+.landing-animate-get-started-1 .group-219 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 31px;
+  left: 1220px;
+  min-width: 92px;
+  position: absolute;
+  top: 174px;
+}
+
+.landing-animate-get-started-1 .overlap-group7 {
+  align-items: center;
+  border-radius: 3px;
+  display: flex;
+  height: 31px;
+  min-width: 90px;
+  padding: 0 10px;
+}
+
+.landing-animate-get-started-1 .about-us-1 {
+  color: transparent;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxs);
+  font-weight: 500;
+  letter-spacing: 0;
+  min-height: 19px;
+  width: 70px;
+}
+
+.landing-animate-get-started-1 .group-188 {
+  height: 445px;
+  left: 184px;
+  position: absolute;
+  top: 919px;
+  width: 1105px;
+}
+
+.landing-animate-get-started-1 .how-we-work {
+  color: #055c21;
+  font-family: var(--font-family-poppins);
+  font-size: 44px;
+  font-weight: 600;
+  letter-spacing: 0;
+  margin-right: 31.0px;
+  margin-top: 99px;
+  min-height: 66px;
+  min-width: 289px;
+}
+
+.landing-animate-get-started-1 .overlap-group10 {
+  height: 310px;
+  margin-left: 8.68px;
+  margin-top: 96px;
+  position: relative;
+  width: 1046px;
+}
+
+.landing-animate-get-started-1 .vector-51 {
+  height: 109px;
+  left: 261px;
+  position: absolute;
+  top: 167px;
+  width: 234px;
+}
+
+.landing-animate-get-started-1 .overlap-group2 {
+  height: 310px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 299px;
+}
+
+.landing-animate-get-started-1 .rectangle-29 {
+  background-color: var(--zumthor);
+  border: 0.71px none;
+  border-radius: 14.11px;
+  box-shadow: 2.82px 2.82px 8.11px 0.71px #00000012;
+  height: 252px;
+  left: 0;
+  position: absolute;
+  top: 58px;
+  width: 299px;
+}
+
+.landing-animate-get-started-1 .rectangle-60 {
+  -webkit-backdrop-filter: blur(12.17px) brightness(100%);
+  backdrop-filter: blur(12.17px) brightness(100%);
+  background: linear-gradient(180deg, rgb(239, 246, 255) 0%, rgba(255, 255, 255, 0.46) 100%);
+  border: 0.68px solid;
+  border-color: transparent;
+  border-radius: 7.44px;
+  box-shadow: 0px 2.7px 8.11px #00000012;
+  height: 96px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 191px;
+}
+
+.landing-animate-get-started-1 .pre-farming {
+  left: 28px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 62px;
+  width: 134px;
+}
+
+.landing-animate-get-started-1 .we-plan-everything-beforehand {
+  left: 67px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 134px;
+  width: 216px;
+}
+
+.landing-animate-get-started-1 .data-based-research {
+  left: 66px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 192px;
+  width: 144px;
+}
+
+.landing-animate-get-started-1 .cutomised-crop-risk-assesment {
+  left: 66px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 250px;
+  width: 213px;
+}
+
+.landing-animate-get-started-1 .ellipse-46 {
+  background-color: var(--hawkes-blue);
+  border: 0.68px none;
+  border-radius: 18.38px;
+  height: 37px;
+  left: 16px;
+  position: absolute;
+  top: 127px;
+  width: 37px;
+}
+
+.landing-animate-get-started-1 .ellipse-47 {
+  background-color: var(--hawkes-blue);
+  border: 0.68px none;
+  border-radius: 18.38px;
+  height: 37px;
+  left: 16px;
+  position: absolute;
+  top: 185px;
+  width: 37px;
+}
+
+.landing-animate-get-started-1 .ellipse-48 {
+  background-color: var(--hawkes-blue);
+  border: 0.68px none;
+  border-radius: 18.38px;
+  height: 37px;
+  left: 16px;
+  position: absolute;
+  top: 242px;
+  width: 37px;
+}
+
+.landing-animate-get-started-1 .plant-2-1 {
+  height: 28px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 250px;
+  width: 28px;
+}
+
+.landing-animate-get-started-1 .check-list-1 {
+  height: 48px;
+  left: 71px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 48px;
+}
+
+.landing-animate-get-started-1 .check-list-2 {
+  height: 26px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 134px;
+  width: 26px;
+}
+
+.landing-animate-get-started-1 .statistics-2 {
+  height: 23px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 192px;
+  width: 23px;
+}
+
+.landing-animate-get-started-1 .vector-52 {
+  height: 93px;
+  left: 644px;
+  position: absolute;
+  top: 133px;
+  width: 142px;
+}
+
+.landing-animate-get-started-1 .overlap-group {
+  height: 309px;
+  left: 376px;
+  position: absolute;
+  top: 0;
+  width: 292px;
+}
+
+.landing-animate-get-started-1 .rectangle {
+  background-color: var(--zumthor);
+  border: 0.71px none;
+  border-radius: 14.11px;
+  box-shadow: 2.82px 2.82px 8.11px 0.71px #00000012;
+  height: 246px;
+  left: 0;
+  position: absolute;
+  top: 63px;
+  width: 292px;
+}
+
+.landing-animate-get-started-1 .rectangle-1 {
+  -webkit-backdrop-filter: blur(12.17px) brightness(100%);
+  backdrop-filter: blur(12.17px) brightness(100%);
+  background: linear-gradient(180deg, rgb(239, 246, 255) 0%, rgba(255, 255, 255, 0.46) 100%);
+  border: 0.68px solid;
+  border-color: transparent;
+  border-radius: 7.44px;
+  box-shadow: 0px 2.7px 8.11px #00000012;
+  height: 94px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 186px;
+}
+
+.landing-animate-get-started-1 .farming {
+  left: 53px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 60px;
+  width: 81px;
+}
+
+.landing-animate-get-started-1 .we-guide-you-at-every-step {
+  left: 66px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 131px;
+  width: 179px;
+}
+
+.landing-animate-get-started-1 .best-agri-inputs {
+  left: 65px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 188px;
+  width: 104px;
+}
+
+.landing-animate-get-started-1 .quality-control {
+  left: 65px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 244px;
+  width: 96px;
+}
+
+.landing-animate-get-started-1 .ellipse-7 {
+  background-color: var(--hawkes-blue);
+  border: 0.68px none;
+  border-radius: 17.95px;
+  height: 36px;
+  left: 15px;
+  position: absolute;
+  top: 125px;
+  width: 36px;
+}
+
+.landing-animate-get-started-1 .signpost-1 {
+  height: 25px;
+  left: 21px;
+  object-fit: cover;
+  position: absolute;
+  top: 130px;
+  width: 25px;
+}
+
+.landing-animate-get-started-1 .ellipse-7-1 {
+  background-color: var(--hawkes-blue);
+  border: 0.68px none;
+  border-radius: 17.95px;
+  height: 36px;
+  left: 15px;
+  position: absolute;
+  top: 180px;
+  width: 36px;
+}
+
+.landing-animate-get-started-1 .ellipse-7-2 {
+  background-color: var(--hawkes-blue);
+  border: 0.68px none;
+  border-radius: 17.95px;
+  height: 36px;
+  left: 15px;
+  position: absolute;
+  top: 236px;
+  width: 36px;
+}
+
+.landing-animate-get-started-1 .gardener-1 {
+  height: 47px;
+  left: 70px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 47px;
+}
+
+.landing-animate-get-started-1 .sprout-1 {
+  height: 25px;
+  left: 21px;
+  object-fit: cover;
+  position: absolute;
+  top: 186px;
+  width: 25px;
+}
+
+.landing-animate-get-started-1 .quality-control-1 {
+  height: 23px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 241px;
+  width: 23px;
+}
+
+.landing-animate-get-started-1 .gardener-1-1 {
+  height: 47px;
+  left: 70px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 47px;
+}
+
+.landing-animate-get-started-1 .sprout-1-1 {
+  height: 25px;
+  left: 21px;
+  object-fit: cover;
+  position: absolute;
+  top: 186px;
+  width: 25px;
+}
+
+.landing-animate-get-started-1 .overlap-group5 {
+  height: 309px;
+  left: 746px;
+  position: absolute;
+  top: 0;
+  width: 292px;
+}
+
+.landing-animate-get-started-1 .post-farming {
+  left: 27px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 59px;
+  width: 131px;
+}
+
+.landing-animate-get-started-1 .harvest-management {
+  left: 66px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 132px;
+  width: 199px;
+}
+
+.landing-animate-get-started-1 .tansportation-support {
+  left: 65px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 188px;
+  width: 206px;
+}
+
+.landing-animate-get-started-1 .market-linkage {
+  left: 65px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 244px;
+  width: 139px;
+}
+
+.landing-animate-get-started-1 .delivery-truck-1 {
+  height: 25px;
+  left: 21px;
+  object-fit: cover;
+  position: absolute;
+  top: 186px;
+  width: 25px;
+}
+
+.landing-animate-get-started-1 .market-1 {
+  height: 23px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 243px;
+  width: 23px;
+}
+
+.landing-animate-get-started-1 .harvest-1 {
+  height: 23px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 131px;
+  width: 23px;
+}
+
+.landing-animate-get-started-1 .harvest-2 {
+  height: 47px;
+  left: 70px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 47px;
+}
+
+.landing-animate-get-started-1 .solutions {
+  color: #055c21;
+  font-family: var(--font-family-poppins);
+  font-size: 44px;
+  font-weight: 600;
+  letter-spacing: 0;
+  margin-right: 56.0px;
+  margin-top: 99px;
+  min-height: 66px;
+  min-width: 204px;
+}
+
+.landing-animate-get-started-1 .flex-row-1 {
+  align-items: flex-end;
+  display: flex;
+  gap: 152px;
+  height: 489px;
+  margin-right: 48.54px;
+  margin-top: 67px;
+  min-width: 1059px;
+}
+
+.landing-animate-get-started-1 .test2-1 {
+  height: 404px;
+  margin-bottom: 0.08px;
+  object-fit: cover;
+  width: 504px;
+}
+
+.landing-animate-get-started-1 .overlap-group8 {
+  align-items: flex-start;
+  background-color: #f0f3ff;
+  border-radius: 22.16px;
+  box-shadow: 3.69px 3.69px 24.93px #0000000a;
+  display: flex;
+  flex-direction: column;
+  min-height: 489px;
+  padding: 35.9px 12.4px;
+  width: 404px;
+}
+
+.landing-animate-get-started-1 .for-retailers {
+  color: var(--blueberry);
+  font-family: var(--font-family-poppins);
+  font-size: 44.3px;
+  font-weight: 600;
+  letter-spacing: 0;
+  margin-left: 15.27px;
+  min-height: 66px;
+}
+
+.landing-animate-get-started-1 .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 18px;
+  height: 56px;
+  margin-left: 15.27px;
+  margin-top: 37px;
+  min-width: 314px;
+}
+
+.landing-animate-get-started-1 .ellipse-6 {
+  background-color: var(--blueberry-2);
+  border: 0.92px none;
+  border-radius: 6.46px;
+  height: 13px;
+  margin-top: 8.39px;
+  width: 13px;
+}
+
+.landing-animate-get-started-1 .solving-best-quality {
+  letter-spacing: 0;
+  min-height: 56px;
+}
+
+.landing-animate-get-started-1 .flex-row {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 18px;
+  height: 56px;
+  margin-top: 18px;
+  min-width: 363px;
+}
+
+.landing-animate-get-started-1 .proper-bill-generati {
+  letter-spacing: 0;
+  min-height: 56px;
+}
+
+.landing-animate-get-started-1 .flex-row-3 {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  gap: 18px;
+  height: 28px;
+  margin-right: 10.73px;
+  margin-top: 18px;
+  min-width: 337px;
+}
+
+.landing-animate-get-started-1 .ellipse-6-1 {
+  background-color: var(--blueberry-2);
+  border: 0.92px none;
+  border-radius: 6.46px;
+  height: 13px;
+  margin-top: 1.7px;
+  width: 13px;
+}
+
+.landing-animate-get-started-1 .pending-payment-management {
+  letter-spacing: 0;
+  min-height: 28px;
+  min-width: 306px;
+}
+
+.landing-animate-get-started-1 .flex-row-4 {
+  align-items: center;
+  display: flex;
+  gap: 18px;
+  height: 28px;
+  margin-left: 15.27px;
+  margin-top: 18px;
+  min-width: 258px;
+}
+
+.landing-animate-get-started-1 .inventory-management {
+  letter-spacing: 0;
+  min-height: 28px;
+  min-width: 227px;
+}
+
+.landing-animate-get-started-1 .flex-row-5 {
+  align-items: center;
+  display: flex;
+  gap: 18px;
+  height: 28px;
+  margin-left: 15.27px;
+  margin-top: 18px;
+  min-width: 242px;
+}
+
+.landing-animate-get-started-1 .reach-new-customers {
+  letter-spacing: 0;
+  min-height: 28px;
+  min-width: 211px;
+}
+
+.landing-animate-get-started-1 .flex-row-6 {
+  align-items: flex-start;
+  display: flex;
+  gap: 132px;
+  height: 489px;
+  margin-right: 7.61px;
+  margin-top: 101px;
+  min-width: 1039px;
+}
+
+.landing-animate-get-started-1 .overlap-group1-1 {
+  align-items: flex-start;
+  background-color: #f0fff5;
+  border-radius: 22.16px;
+  display: flex;
+  flex-direction: column;
+  min-height: 489px;
+  padding: 36.9px 12.4px;
+  width: 404px;
+}
+
+.landing-animate-get-started-1 .for-farmers {
+  color: var(--stromboli);
+  font-family: var(--font-family-poppins);
+  font-size: 44.3px;
+  font-weight: 600;
+  letter-spacing: 0;
+  margin-left: 15.27px;
+  min-height: 66px;
+}
+
+.landing-animate-get-started-1 .flex-row-7 {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  gap: 18px;
+  height: 28px;
+  margin-right: 5.73px;
+  margin-top: 37px;
+  min-width: 342px;
+}
+
+.landing-animate-get-started-1 .ellipse-6-2 {
+  background-color: var(--stromboli);
+  border: 0.92px none;
+  border-radius: 6.46px;
+  height: 13px;
+  margin-bottom: 0.3px;
+  width: 13px;
+}
+
+.landing-animate-get-started-1 .solving-advisory-issue-of-farmers {
+  letter-spacing: 0;
+  min-height: 28px;
+  min-width: 311px;
+}
+
+.landing-animate-get-started-1 .flex-row-8 {
+  align-items: flex-start;
+  display: flex;
+  gap: 18px;
+  height: 56px;
+  margin-left: 15.27px;
+  margin-top: 18px;
+  min-width: 305px;
+}
+
+.landing-animate-get-started-1 .ellipse-6-3 {
+  background-color: var(--stromboli);
+  border: 0.92px none;
+  border-radius: 6.46px;
+  height: 13px;
+  margin-top: 7.39px;
+  width: 13px;
+}
+
+.landing-animate-get-started-1 .enable-them-with-cor {
+  letter-spacing: 0;
+  min-height: 56px;
+}
+
+.landing-animate-get-started-1 .flex-row-9 {
+  align-items: center;
+  display: flex;
+  gap: 18px;
+  height: 28px;
+  margin-left: 15.27px;
+  margin-top: 18px;
+  min-width: 302px;
+}
+
+.landing-animate-get-started-1 .solving-market-linkage-issue {
+  letter-spacing: 0;
+  min-height: 28px;
+  min-width: 271px;
+}
+
+.landing-animate-get-started-1 .flex-row-10 {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  gap: 18px;
+  height: 28px;
+  margin-right: 22.73px;
+  margin-top: 18px;
+  min-width: 325px;
+}
+
+.landing-animate-get-started-1 .crop-disease-detection-feature {
+  letter-spacing: 0;
+  min-height: 28px;
+  min-width: 294px;
+}
+
+.landing-animate-get-started-1 .community-based-appr {
+  letter-spacing: 0;
+  min-height: 56px;
+}
+
+.landing-animate-get-started-1 .test-1-1 {
+  align-self: flex-end;
+  height: 403px;
+  width: 503px;
+}
+
+.landing-animate-get-started-1 .we-are-trusted-by-400-farmers {
+  color: var(--onyx);
+  font-family: var(--font-family-poppins);
+  font-size: 60px;
+  font-weight: 600;
+  letter-spacing: 0;
+  margin-top: 99px;
+  min-height: 90px;
+  min-width: 986px;
+}
+
+.landing-animate-get-started-1 .frame-242 {
+  height: 534px;
+  margin-top: 101px;
+  width: 1160px;
+}
+
+.landing-animate-get-started-1 .lets-simplify-farmers-life {
+  align-self: flex-start;
+  color: var(--onyx);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-weight: 600;
+  letter-spacing: 0;
+  margin-left: 145px;
+  margin-top: 149px;
+  min-height: 72px;
+}
+
+.landing-animate-get-started-1 .flex-row-11 {
+  align-items: flex-start;
+  display: flex;
+  height: 48px;
+  margin-right: 52.0px;
+  margin-top: 70px;
+  min-width: 1104px;
+}
+
+.landing-animate-get-started-1 .contact-here {
+  color: var(--onyx);
+  font-family: var(--font-family-poppins);
+  font-size: 32px;
+  font-weight: 600;
+  letter-spacing: 0;
+  min-height: 48px;
+  min-width: 214px;
+}
+
+.landing-animate-get-started-1 .services {
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-left: 558px;
+  min-height: 30px;
+  min-width: 84px;
+}
+
+.landing-animate-get-started-1 .privacy-policy {
+  letter-spacing: 0;
+  margin-left: 110px;
+  min-height: 30px;
+}
+
+.landing-animate-get-started-1 .flex-row-12 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 100px;
+  height: 30px;
+  margin-right: 134px;
+  margin-top: 2px;
+  min-width: 392px;
+}
+
+.landing-animate-get-started-1 .our-story {
+  cursor: pointer;
+  letter-spacing: 0;
+  min-height: 30px;
+  min-width: 94px;
+}
+
+.landing-animate-get-started-1 .terms-conditions {
+  letter-spacing: 0;
+  min-height: 30px;
+}
+
+.landing-animate-get-started-1 .flex-row-13 {
+  align-items: flex-start;
+  display: flex;
+  height: 45px;
+  margin-right: 141.0px;
+  margin-top: 5px;
+  min-width: 1019px;
+}
+
+.landing-animate-get-started-1 .icon-call {
+  height: 20px;
+  margin-top: 6px;
+  width: 20px;
+}
+
+.landing-animate-get-started-1 .text-1 {
+  letter-spacing: 0;
+  margin-left: 12px;
+  min-height: 30px;
+  min-width: 288px;
+}
+
+.landing-animate-get-started-1 .careers {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-left: 454px;
+  min-height: 30px;
+  min-width: 80px;
+}
+
+.landing-animate-get-started-1 .fa-qs {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-left: 114px;
+  min-height: 30px;
+  min-width: 51px;
+}
+
+.landing-animate-get-started-1 .x2022-krishk23-agroscience-pvt-limited {
+  color: #c4c4c4;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxs);
+  font-weight: 500;
+  letter-spacing: 0;
+  margin-left: 13.0px;
+  margin-top: 132px;
+  min-height: 27px;
+  min-width: 369px;
+}
